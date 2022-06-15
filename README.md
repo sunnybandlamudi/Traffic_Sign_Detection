@@ -2,7 +2,7 @@
 
 Detection and Recognition of Traffic Signs(CV-4) 
 
-Group ID - G4
+
 
 ## Datasets:
 
@@ -15,7 +15,7 @@ Test Data CSV: [GTSRB_Final_Test_GT](https://sid.erda.dk/public/archives/daaeac0
 
 ## Code Deliverables
 
-Code to get the statistics used to complement the descriptive analysis of the dataset and Code to train one of the best performing models in the training set and evaluate it in the test set - both the codes can be found in the "groupcode_G4.ipynb" file
+Code to get the statistics used to complement the descriptive analysis of the dataset and Code to train one of the best performing models in the training set and evaluate it in the test set - both the codes can be found in the "Traffic Sign Classification.ipynb" file
 
 ## Execution Steps:
 
