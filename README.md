@@ -22,7 +22,7 @@ Code to get the statistics used to complement the descriptive analysis of the da
 #### Remote Execution:
 Best way to run this code is to upload the file to google colab and execute all cells.
 
-Google Colab URL: [groupcode_G4.ipynb](https://colab.research.google.com/drive/1vPydHid9QeT8N9lqZ559_2P_IUs3w6be?usp=sharing)
+Google Colab URL: [Traffic Sign Detection.ipynb](https://colab.research.google.com/drive/1vPydHid9QeT8N9lqZ559_2P_IUs3w6be?usp=sharing)
 #### Local Execution:
 For running it in local machine you need to install python, jupyter notebook and the following pip dependencies.
 
